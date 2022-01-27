@@ -39,7 +39,7 @@
     "is-in-browser": "1.1.3",
     "jCryption": "git+ssh://git@git.jaspersoft.com:js-eng-all/jCryption#v1.2-npm-package",
     "jquery": "3.5.1",
-    "jquery-ui": "1.12.1",
+    "jquery-ui": "1.13.0",
     "jquery-ui-touch-punch": "git+ssh://git@git.jaspersoft.com:js-eng-all/jquery-ui-touch-punch#jquery-ui-touch-punch-jquery-ui-1-12-support",
     "jquery.selection": "git+ssh://git@git.jaspersoft.com:js-eng-all/jquery.selection#1.0.1-npm-package",
     "jquery.urldecoder": "git+ssh://git@git.jaspersoft.com:js-eng-all/jquery.urldecoder#0.0.1-npm-package",
