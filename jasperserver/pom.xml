@@ -1421,7 +1421,7 @@
     <js-crypto.version>3.1.1</js-crypto.version>
     <commons-codec.version>1.10</commons-codec.version>
     <commons-configuration.version>2.7</commons-configuration.version>
-    <infinispan.version>10.1.8.Final</infinispan.version>
+    <infinispan.version>11.0.6.Final</infinispan.version>
     <jgroups.version>4.1.9.Final</jgroups.version>
     <bcprov-jdk15on.version>1.68</bcprov-jdk15on.version>
     <failsafe.version>2.3.4</failsafe.version>
