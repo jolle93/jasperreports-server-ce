@@ -1391,7 +1391,7 @@
     <jasperreports.version>6.18.1</jasperreports.version>
     <jasperreports.ext.version>6.18.1</jasperreports.ext.version>
     <hibernate.validator.version>5.4.3.Final</hibernate.validator.version>
-    <hibernate.core.version>5.2.12.Final</hibernate.core.version>
+    <hibernate.core.version>5.3.20.Final</hibernate.core.version>
     <hibernate.tools.version>5.4.2.Final</hibernate.tools.version>
     <ehcache.version>2.10.9.2</ehcache.version>
     <jboss.logging.version>3.4.1.Final</jboss.logging.version>
